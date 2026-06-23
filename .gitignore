@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+
+data/
+sample_data/
+output/
+processed_files/
+failed_files/
+*.xlsx
+*.xls
+*.pdf
+
+*.log
